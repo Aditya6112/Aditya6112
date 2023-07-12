@@ -6,7 +6,7 @@
 <br>
 <hr>
 💫 About Me:
-👋 Hi, I’m @Aditya6112<br>👀 I’m interested in innovating things.<br>🌱 I’m currently learning programming languages c,c++.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:-<br>🚀 Instagram:-rajput_adi75
+👋 Hi, I’m @Aditya6112<br>👀 I’m interested in innovating things.<br>🌱 I’m currently working with programming languages c,c++,python.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:- raj8017933@gmail.com<br>🚀 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1lzq9f_gucKcy39_JI4_lqb_8unFJLkGi/view?usp=sharing)
 
 
 ## 🌐 Socials:
