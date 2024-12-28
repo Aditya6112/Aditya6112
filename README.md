@@ -7,7 +7,9 @@
 <hr>
 💫 About Me:
 👋 Hi, I’m @Aditya6112<br>👀 I’m interested in innovating things.<br>🌱 I’m currently working with programming languages c,c++,python.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:- raj8017933@gmail.com<br>🚀 I’m currently open for an Intern or a new job opportunity.
+<hr>
 
+![](https://komarev.com/ghpvc/?username=Aditya6112)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aditya.rajput.4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajput_adi75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-0253171ab) 
